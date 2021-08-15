@@ -6,7 +6,8 @@ This repository contains the hand-written notes which I took while learning some
 ## Topics Covered
 
 
-[How JavaScript Works & Execution Context](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-01.pdf)
+1. [How JavaScript Works & Execution Context](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-01.pdf)
+2. [How JavaScript Code is Executed & Call Stack](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-02.pdf)
 
 
 ## Language
