@@ -29,7 +29,7 @@ This repository contains the hand-written notes which I took while learning some
 ## Language
 
 
-* JavaScript
+* JavaScript (Vanilla + Modern)
 
 ## Issues
 
@@ -47,14 +47,12 @@ Feel free to submit [issues](https://github.com/chaitanyatekane/Namaste-JavaScri
 
 NOTE: Make sure to merge the latest from "upstream" before making a pull request!
 
-<!-- ## Acknowledgements
+## Acknowledgements
 
 
- - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
- - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
- - [Bootstrap(v5.0)](https://getbootstrap.com/docs/5.1/getting-started/introduction/)
- - [GitHub Pages](https://pages.github.com/) -->
-
+* [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Akshay Saini - YouTube](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
+* [Niladri Sekhar Dutta - Blog](https://www.codementor.io/@niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
 
 ## Connect With Me
 
