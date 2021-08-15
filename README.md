@@ -17,7 +17,14 @@ This repository contains the hand-written notes which I took while learning some
 * [Block Scope & Shadowing in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-09.pdf)
 * [Closures in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-10.pdf)
 * [setTimeout + Closures Interview Question](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-11.pdf)
-
+* [First Class Functions & Anonymous Functions](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-13.pdf)
+* [Callback Functions in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-14.pdf)
+* [Asynchronous JavaScript & Event Loop](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-15.pdf)
+* [JavaScript Engine (Google's V8 Architecture)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-16.pdf)
+* [Trust Issues With setTimeout()](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-17.pdf)
+* [Higher Order Functions (Functional Programming)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-18.pdf)
+* [map(), filter() and reduce() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-19.pdf)
+* [call(), apply() and bind() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/call()%20apply()%20and%20bind()%20method%20in%20javascript.pdf)
 
 ## Language
 
