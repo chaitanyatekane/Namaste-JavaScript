@@ -6,8 +6,17 @@ This repository contains the hand-written notes which I took while learning some
 ## Topics Covered
 
 
-1. [How JavaScript Works & Execution Context](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-01.pdf)
-2. [How JavaScript Code is Executed & Call Stack](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-02.pdf)
+* [How JavaScript Works & Execution Context](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-01.pdf)
+* [How JavaScript Code is Executed & Call Stack](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-02.pdf)
+* [Hoisting in JavaScript (Variables & Functions)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-03.pdf)
+* [How Functions Work in JavaScript & Variable Environment](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-04.pdf)
+* [Shortest JavaScript Program (window & this keyword)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-05.pdf)
+* [undefined vs not defined in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-06.pdf)
+* [The Scope Chain, Scope & Lexical Environment](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-07.pdf)
+* [let & const in JavaScript (Temporal Dead Zone)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-08.pdf)
+* [Block Scope & Shadowing in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-09.pdf)
+* [Closures in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-10.pdf)
+* [setTimeout + Closures Interview Question](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-11.pdf)
 
 
 ## Language
