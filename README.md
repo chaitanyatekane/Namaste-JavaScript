@@ -52,7 +52,6 @@ NOTE: Make sure to merge the latest from "upstream" before making a pull request
 
 * [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [Akshay Saini - YouTube](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
-* [Niladri Sekhar Dutta - Blog](https://www.codementor.io/@niladrisekhardutta/how-to-call-apply-and-bind-in-javascript-8i1jca6jp)
 
 ## Connect With Me
 
