@@ -25,6 +25,14 @@ This repository contains the hand-written notes which I took while learning some
 * [Higher Order Functions (Functional Programming)](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-18.pdf)
 * [map(), filter() and reduce() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-19.pdf)
 * [call(), apply() and bind() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/call()%20apply()%20and%20bind()%20method%20in%20javascript.pdf)
+* [HTTP Requests in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/HTTP%20Requests%20Using%20Javascript.pdf)
+    1. What are HTTP Requests
+    2. Making HTTP Request
+    3. Response Status
+    4. HTTP Request Using Callback
+* [JSON Data in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/JSON%20Data%20in%20JavaScript.pdf)
+* [Callback Hell in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/CallBack%20Hell%20in%20JavaScript.pdf)
+* [Promise in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Promise%20in%20JavaScript.pdf)
 
 ## Language
 
