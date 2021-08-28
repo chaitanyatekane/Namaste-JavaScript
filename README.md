@@ -26,13 +26,17 @@ This repository contains the hand-written notes which I took while learning some
 * [map(), filter() and reduce() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Episode-19.pdf)
 * [call(), apply() and bind() in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/call()%20apply()%20and%20bind()%20method%20in%20javascript.pdf)
 * [HTTP Requests in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/HTTP%20Requests%20Using%20Javascript.pdf)
-    1. What are HTTP Requests
-    2. Making HTTP Request
-    3. Response Status
-    4. HTTP Request Using Callback
+    * What are HTTP Requests
+    * Making HTTP Request
+    * Response Status
+    * HTTP Request Using Callback
 * [JSON Data in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/JSON%20Data%20in%20JavaScript.pdf)
 * [Callback Hell in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/CallBack%20Hell%20in%20JavaScript.pdf)
 * [Promise in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Promise%20in%20JavaScript.pdf)
+* [Chaining Promises in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Chaining%20Promises%20in%20JavaScript.pdf)
+* [Fetch API using JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Fetch%20API%20using%20JavaScript.pdf)
+* [Async & Await in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Async%20%26%20Await%20in%20JavaScript.pdf)
+* [Throwing & Catching Errors using Async & Await in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Throwing%20%26%20Catching%20Errors%20using%20Async%20%26%20Await%20in%20JavaScript.pdf)
 
 ## Language
 
