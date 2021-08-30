@@ -39,6 +39,9 @@ This repository contains the hand-written notes which I took while learning some
 - [Throwing & Catching Errors using Async & Await in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Throwing%20%26%20Catching%20Errors%20using%20Async%20%26%20Await%20in%20JavaScript.pdf)
 - [Object Shorthand Notation in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Object%20Shorthand%20Notation.pdf)
 - [Regular Expression Patterns in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Regular%20Expression%20Patterns%20in%20JavaScript.pdf)
+- [All About Local Storage Using Javascript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/All%20About%20Local%20Storage%20Using%20Javascript.pdf)
+- [Class, Class Constructor, New Keyword, Class Methods & Method Chaining](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Class%2C%20Class%20Constructor%2C%20New%20Keyword%2C%20Class%20Methods%20%26%20Method%20Chaining.pdf)
+- [Ternary Operator in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Ternary%20Operator%20in%20JavaScript.pdf)
 
 ## Language
 
