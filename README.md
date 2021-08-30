@@ -70,6 +70,7 @@ NOTE: Make sure to merge the latest from "upstream" before making a pull request
 
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Akshay Saini - YouTube](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
+- [The Net Ninja - YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 ## Connect With Me
 
