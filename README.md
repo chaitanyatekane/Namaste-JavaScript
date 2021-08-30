@@ -61,6 +61,11 @@ Feel free to submit [issues](https://github.com/chaitanyatekane/Namaste-JavaScri
 
 NOTE: Make sure to merge the latest from "upstream" before making a pull request!
 
+## Find it Useful?
+
+- Support me by clicking the ⭐ button on the upper right side of this page.
+- Spread it to others to let more people to have an access to this project.
+
 ## Acknowledgements
 
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
