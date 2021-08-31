@@ -42,6 +42,7 @@ This repository contains the hand-written notes which I took while learning some
 - [All About Local Storage Using Javascript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/All%20About%20Local%20Storage%20Using%20Javascript.pdf)
 - [Class, Class Constructor, New Keyword, Class Methods & Method Chaining](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Class%2C%20Class%20Constructor%2C%20New%20Keyword%2C%20Class%20Methods%20%26%20Method%20Chaining.pdf)
 - [Ternary Operator in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Ternary%20Operator%20in%20JavaScript.pdf)
+- [Class Inheritance (Subclasses), super() keyword, Constructor(under the hood working)](<https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Class%20Inheritance%20(subclasses)%2C%20super()%20keyword%2C%20Constructors%20(under%20the%20hood).pdf>)
 
 ## Language
 
@@ -79,7 +80,6 @@ NOTE: Make sure to merge the latest from "upstream" before making a pull request
 <a href="https://www.linkedin.com/in/chaitanyatekane"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/chaitanyatekane"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/chaitanyatekne"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://leetcode.com/chaitanyatekane/"><img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
 <a href="https://chaitanyatekane.hashnode.dev/"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://www.instagram.com/tekanechaitanya/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
