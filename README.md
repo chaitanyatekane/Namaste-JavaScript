@@ -43,6 +43,9 @@ This repository contains the hand-written notes which I took while learning some
 - [Class, Class Constructor, New Keyword, Class Methods & Method Chaining](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Class%2C%20Class%20Constructor%2C%20New%20Keyword%2C%20Class%20Methods%20%26%20Method%20Chaining.pdf)
 - [Ternary Operator in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Ternary%20Operator%20in%20JavaScript.pdf)
 - [Class Inheritance (Subclasses), super() keyword, Constructor(under the hood working)](<https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Class%20Inheritance%20(subclasses)%2C%20super()%20keyword%2C%20Constructors%20(under%20the%20hood).pdf>)
+- [Prototype Model & Prototypal Inheritance in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Prototype%20Model%20%26%20Prototypal%20Inheritance.pdf)
+- [Working of Prototypal Inheritance In JavaScript With Built-in Objects](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Working%20of%20Prototypal%20Inheritance%20In%20JavaScript%20With%20Built-in%20Objects.pdf)
+- [Event Bubbling, Capturing, Trickling & Event Delegation in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Event%20Bubbling%2C%20Capturing%2C%20Trickling%20%26%20Event%20Delegation.pdf)
 
 ## Language
 
@@ -67,11 +70,11 @@ NOTE: Make sure to merge the latest from "upstream" before making a pull request
 - Support me by clicking the ⭐ button on the upper right side of this page.
 - Spread it to others to let more people to have an access to this project.
 
-## Acknowledgements
+<!-- ## Acknowledgements
 
 - [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Akshay Saini - YouTube](https://www.youtube.com/channel/UC3N9i_KvKZYP4F84FPIzgPQ)
-- [The Net Ninja - YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [The Net Ninja - YouTube](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) -->
 
 ## Connect With Me
 
