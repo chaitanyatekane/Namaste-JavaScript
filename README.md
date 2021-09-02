@@ -46,6 +46,8 @@ This repository contains the hand-written notes which I took while learning some
 - [Prototype Model & Prototypal Inheritance in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Prototype%20Model%20%26%20Prototypal%20Inheritance.pdf)
 - [Working of Prototypal Inheritance In JavaScript With Built-in Objects](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Working%20of%20Prototypal%20Inheritance%20In%20JavaScript%20With%20Built-in%20Objects.pdf)
 - [Event Bubbling, Capturing, Trickling & Event Delegation in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Event%20Bubbling%2C%20Capturing%2C%20Trickling%20%26%20Event%20Delegation.pdf)
+- [Polyfill for bind() method in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Polyfill%20for%20bind%20method%20(JavaScript).pdf)
+- [Currying in JavaScript](https://github.com/chaitanyatekane/Namaste-JavaScript/blob/main/Handwritten-Notes/Currying%20in%20JavaScript.pdf)
 
 ## Language
 
